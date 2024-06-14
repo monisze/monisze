@@ -12,9 +12,9 @@
   <img align="center" alt="Nise-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nise-html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   <img align="center" alt="Nise-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Nise-Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/css-original.svg">
-  <img align="center" alt="Nise-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/figma-original.svg">
-  <img align="center" alt="Nise-Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/photoshop-original.svg">
+  <img align="center" alt="Nise-Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original.svg">
+  <img align="center" alt="Nise-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Nise-Photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg">
   
 </div>
   
